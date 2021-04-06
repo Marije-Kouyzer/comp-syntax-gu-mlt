@@ -1,0 +1,86 @@
+4. The statistics I found are the following:
+Top 20 of English Part of Speech tags:
+NOUN     4040
+ADP      2493
+PUNCT    2451
+VERB     2156
+DET      2086
+PROPN    1727
+ADJ      1540
+PRON     1021
+AUX      1014
+ADV      849
+CCONJ    576
+NUM      455
+PART     426
+SCONJ    290
+SYM      42
+X        16
+INTJ     1
+
+Top 20 of Spanish Part of Speech tags:
+NOUN     4822
+ADP      3967
+DET      3317
+PUNCT    2291
+VERB     2143
+ADJ      1474
+PROPN    1234
+PRON     1058
+ADV      909
+AUX      756
+CCONJ    582
+_        465
+NUM      435
+SCONJ    258
+SYM      21
+X        20
+
+Top 20 of English dependency labels:
+case     2499
+punct    2451
+det      2047
+nsubj    1393
+amod     1336
+obl      1237
+nmod     1076
+root     1000
+obj      876
+advmod   852
+compound         810
+conj     634
+cc       574
+mark     555
+aux      410
+nmod:poss        365
+cop      316
+advcl    293
+aux:pass         274
+xcomp    271
+
+Top 20 of Spanish dependency labels:
+case     3698
+det      3486
+punct    2292
+nmod     1803
+obl      1550
+amod     1308
+nsubj    1189
+root     1000
+advmod   843
+obj      790
+conj     652
+cc       565
+_        465
+fixed    379
+aux      375
+xcomp    356
+appos    320
+compound:prt     318
+cop      289
+mark     275 
+
+The English and Spanish part of speech tags are mostly the same. English has less nouns and determiners than Spanish.
+6. Spanish uses more words than English to say the same thing. Spanish sometimes 
+add to words together as one word, while retaining the same function as the two
+separate words. The word order is different in English and Spanish.
